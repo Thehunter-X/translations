@@ -8884,6 +8884,12 @@ var languages = {
 			name:"侏罗纪汉化组：Heavensn(波仔)、QQ南极企鹅、Benzema星、睡鲨、失足（污力毓）",
 			link:"http://www.playarkcn.com/"
 		}]
-	}     
+	},
+	id:{
+		name:"Indonesian",
+		credit:[{
+			name:"Wahyu siruah"
+			link:"/www.instagram.com/wahyu_siruah/"
+		}]	
 }
 module.exports = {languages, translations};
